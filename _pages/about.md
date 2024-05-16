@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am Xianting Huang, also known as Alison Wong or Hinting Wong (Cantonese transliteration), currently studying Computer Science at [Jinan University](https://www.jnu.edu.cn) with a specialization in Artificial Intelligence.   
+I am Xianting Huang, also known as Alison Wong or Hinting Wong (Cantonese transliteration), currently studying Computer Science at [Jinan University](https://www.jnu.edu.cn) with a specialization in AI.   
 My research interests include Machine Learning, Artificial Intelligence Security, etc. Under the supervision of Professor [Ke Wang](https://faculty.jnu.edu.cn/xxkxjsxy/wk/list.htm).
 
 News
