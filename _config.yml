@@ -21,7 +21,7 @@ repository               : "AlisonWWWong"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : alisonW.jpg  # "profile.png"
   name             : "Xianting Huang"
   pronouns         : "she/her"  
   bio              : " \"Not only fall among the stars\" "
