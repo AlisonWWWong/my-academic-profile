@@ -14,7 +14,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://alisonwwwong.github.io/AlisonWWWong/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AlisonWWWong/alisonwwwong.github.io"
+repository               : "AlisonWWWong"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
