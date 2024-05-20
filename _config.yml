@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Xianting Huang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Alison Wwwwong"
 description              : &description "personal description"
 url                      : https://alisonwwwong.github.io/AlisonWWWong
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
