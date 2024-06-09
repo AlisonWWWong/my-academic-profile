@@ -14,5 +14,7 @@ My research interests include Machine Learning, Artificial Intelligence Security
 
 News
 ======
+**2024**  
+* ***Paper accepted by IEEE Transaction on Artificial Intelligence:*** Optimizing Neural Network Training: A Markov Chain Approach for Resource Conservation, the second author (tutor is the first one), JCR Q1, IF: 7.25
 **2023**  
 * ***Paper accepted by IEEE Internet of Things Journal:*** Transferability of Adversarial Attacks on Tiny Deep Learning Models for IoT Unmanned Aerial Vehicles, the second author (tutor is the first one), JCR Q1, Top, CCF-C, IF: 10.6
