@@ -1,5 +1,5 @@
 
-# :star2: Hey, guys : )
+# :star2: HEY, GUYS : )
 
 Welcome to my GitHub profile!   
 I am Xianting Huang, also known as Alison Wong or Hinting Wong (Cantonese transliteration), currently studying Computer Science at Jinan University with a specialization in Computer Science && Artificial Intelligence. [(Click here to view My Kaggle Profile)](https://www.kaggle.com/sinakaggler)   
